@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/digital-pass/static/css/main.09fe75f9.chunk.css",
+    "main.js": "/digital-pass/static/js/main.4f491653.chunk.js",
+    "main.js.map": "/digital-pass/static/js/main.4f491653.chunk.js.map",
+    "runtime-main.js": "/digital-pass/static/js/runtime-main.549e952c.js",
+    "runtime-main.js.map": "/digital-pass/static/js/runtime-main.549e952c.js.map",
+    "static/css/2.ce41e2b0.chunk.css": "/digital-pass/static/css/2.ce41e2b0.chunk.css",
+    "static/js/2.d74eafd3.chunk.js": "/digital-pass/static/js/2.d74eafd3.chunk.js",
+    "static/js/2.d74eafd3.chunk.js.map": "/digital-pass/static/js/2.d74eafd3.chunk.js.map",
+    "index.html": "/digital-pass/index.html",
+    "precache-manifest.b64f028063c7c3f74e1d588574c2f3f3.js": "/digital-pass/precache-manifest.b64f028063c7c3f74e1d588574c2f3f3.js",
+    "service-worker.js": "/digital-pass/service-worker.js",
+    "static/css/2.ce41e2b0.chunk.css.map": "/digital-pass/static/css/2.ce41e2b0.chunk.css.map",
+    "static/css/main.09fe75f9.chunk.css.map": "/digital-pass/static/css/main.09fe75f9.chunk.css.map",
+    "static/js/2.d74eafd3.chunk.js.LICENSE.txt": "/digital-pass/static/js/2.d74eafd3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.549e952c.js",
+    "static/css/2.ce41e2b0.chunk.css",
+    "static/js/2.d74eafd3.chunk.js",
+    "static/css/main.09fe75f9.chunk.css",
+    "static/js/main.4f491653.chunk.js"
+  ]
+}
