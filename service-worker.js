@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/digital-pass/precache-manifest.b64f028063c7c3f74e1d588574c2f3f3.js"
+  "/digital-pass/precache-manifest.e1372db940174eacd602a1b9be3fab31.js"
 );
 
 self.addEventListener('message', (event) => {

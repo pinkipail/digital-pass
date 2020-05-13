@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "381400efb8c5cfd3889be8b3eab43c19",
+    "revision": "f0f0221dd95afad9a6f4cfacb5a0fa02",
     "url": "/digital-pass/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/digital-pass/static/css/2.ce41e2b0.chunk.css"
   },
   {
-    "revision": "4b14f892fc8a4e4b5fd5",
+    "revision": "8e73d690c26086fd5533",
     "url": "/digital-pass/static/css/main.09fe75f9.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/digital-pass/static/js/2.d74eafd3.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "4b14f892fc8a4e4b5fd5",
-    "url": "/digital-pass/static/js/main.4f491653.chunk.js"
+    "revision": "8e73d690c26086fd5533",
+    "url": "/digital-pass/static/js/main.b5106776.chunk.js"
   },
   {
     "revision": "604f02437a56c23d8c56",
