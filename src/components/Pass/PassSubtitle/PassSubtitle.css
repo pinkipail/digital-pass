@@ -1,0 +1,14 @@
+.pass__subtitle {
+    text-align: justify;
+    color: #fff;
+    font-weight: 300;
+    font-size: 17px;
+  
+    margin-bottom: 10px;
+  }
+
+  @media(max-width: 576px){  
+    .pass__subtitle {
+      font-size: 14px;
+    }
+  }
